@@ -5,6 +5,9 @@ Deploy the Docker image to Cloud Run using Terraform
 * Step 1:- Create a simple react app and print the "hello world" message.
 * Step 2:- Create a Docker image and test it locally on 3000 port.
 ```
+cd my-react-app/
+```
+```
 docker build -t reactapp .
 ```
 ```
