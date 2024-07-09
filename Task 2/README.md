@@ -1,8 +1,8 @@
 # CloudRun-Terraform
-Deploy the Docker image to Cloud Run using Terraform
+Create a New Terraform Module for Reusable Infrastructure Components
 
-**Part 1: Simple task**
-* Step 1:- Create a simple react app and print the "hello world" message.
+**Part 2: Second task**
+* Step 1:- C
 * Step 2:- Create a Docker image and test it locally on 3000 port.
 ```
 cd my-react-app/
